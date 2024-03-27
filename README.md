@@ -1,5 +1,6 @@
-<div align="center">
+
 ![](https://github.com/dipanjanpanja6/dipanjanpanja6/blob/master/media/header_.png)
+<div align="center">
 
 
 # Hi there 👋
