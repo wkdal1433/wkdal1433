@@ -9,7 +9,7 @@
 <br>
 
 # Hi there 👋
-명지대학교 융합소프트웨어학과 재학중인 장준수 입니다.
+**명지대학교 융합소프트웨어학과 재학중인 장준수 입니다.**
 
 <br>
 
@@ -33,10 +33,9 @@
 
 
 ### 📊 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdal1433&layout=compact)
-
-
-
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdal1433&layout=compact"/>	
+</picture>
 <br>
 
 <picture>
