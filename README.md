@@ -1,7 +1,12 @@
-
-![](https://github.com/dipanjanpanja6/dipanjanpanja6/blob/master/media/header_.png)
 <div align="center">
 
+<picture>
+	<img src="https://github.com/dipanjanpanja6/dipanjanpanja6/blob/master/media/header_.png"/>
+</picture>
+
+
+<br>
+<br>
 
 # Hi there 👋
 명지대학교 융합소프트웨어학과 재학중인 장준수 입니다.
@@ -33,7 +38,10 @@
 
 
 <br>
-<img src="footer.svg">
+
+<picture>
+  <img src="footer.svg">
+</picture>
 
 </div>
 
